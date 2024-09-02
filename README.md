@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KartikSaini024
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Fundamentals of Programming
 
 
 <!---
