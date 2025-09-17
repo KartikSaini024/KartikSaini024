@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KartikSaini024
-- 👀 I’m interested in Computer Science
+- 👋 Hi, I’m Kartik Saini
+- 👀 I code stuff
 
 
 <!---
